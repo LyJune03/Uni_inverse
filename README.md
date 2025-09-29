@@ -7,7 +7,7 @@ Physics-Consistent Universal Imaging Inverse Problem Solving for Heterogeneous S
   <img src="https://img.shields.io/badge/TorchVision-0.16.2-orange.svg" alt="TorchVision 0.16.2">
 </p>
 <p align="center">
-  <img src="figs/Graphical Abstract Image.png" width="90%" alt="Concept figure placeholder">
+  <img src="https://github.com/LyJune03/Uni_inverse/blob/main/figs/Graphical%20Abstract%20Image.png" width="90%" alt="Concept figure placeholder">
 </p>
 
 
