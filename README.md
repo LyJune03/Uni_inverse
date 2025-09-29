@@ -53,7 +53,9 @@ pip install numpy opencv-python matplotlib lpips wandb dlib
 ```
 ├── README.md
 ├── utils
+├── figs
 ├── single_pixel_iamging.py
+├── hadamard_measure.py
 ├── preprocess.py
 ```
 
