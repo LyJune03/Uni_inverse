@@ -26,7 +26,7 @@ Physics-Consistent Universal Imaging Inverse Problem Solving for Heterogeneous S
 ## 🖼️ Visual Results
 
 <p align="center">
-  <img src="figs\visual.png" width="90%" alt="Concept figure placeholder">
+  <img src="https://github.com/LyJune03/Uni_inverse/blob/main/figs/visual.png" width="90%" alt="Concept figure placeholder">
 </p>
 
 
